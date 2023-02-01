@@ -45,8 +45,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&theme=buefy&show_icons=true)
 
 </div>
-
-
+<br />
+<br />
 <!--
 **suuuuuz/suuuuuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
