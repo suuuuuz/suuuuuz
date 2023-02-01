@@ -1,6 +1,9 @@
-![깃헙](https://user-images.githubusercontent.com/110958683/202125975-43c2154e-82e6-4040-bec5-0e353e23c0f4.png)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=suz%20archive&fontSize=60&desc=from%20publisher%20to%20developer&animation=twinkling&fontAlignY=35&descAlignY=50)
-
+![git](https://user-images.githubusercontent.com/110958626/216028922-9523fdee-5d1f-4eae-8100-a15f7bd614ab.png)
+<div align=center>
+	<div>안녕하세요! 감각적인 디자인과 퍼블리싱이 강점인 안수지 입니다.</div>
+  	<div>저는 저와 회사가 필요로 하는 역량에 대해 늘 능동적인 태도로 임하는 사람입니다.</div>
+	<div>📬 loved_bibi@naver.com</div>
+</div>
 
 <!--
 **suuuuuz/suuuuuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=suz%20archive&fontSize=60&desc=from%20publisher%20to%20developer&animation=twinkling&fontAlignY=35&descAlignY=50)
 -->
