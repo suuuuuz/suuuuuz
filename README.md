@@ -42,7 +42,7 @@
 ![g-stats](https://user-images.githubusercontent.com/110958626/216033200-de6ed34c-72a5-475b-8784-b8ba2fc51284.png)
 <div align=center>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeonYoos&theme=buefy&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuuuuz&theme=buefy&show_icons=true)
 
 </div>
 <br />
